@@ -1,4 +1,4 @@
-# Storefront Product Shop Breadcrumbs
+# Storefront Product Shop Breadcrumbs [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [WooCommerce](https://woocommerce.com) plugin that adds a **Shop** link to to the breadcrumbs on product pages for the [Storefront](https://wordpress.org/themes/storefront/) theme.
 ## Why?
 By default, [Storefront](https://wordpress.org/themes/storefront/) does not have a configuration option to add the **Shop** page to breadcrumbs located on product-detail pages.
@@ -42,3 +42,5 @@ The Storefront Product Shop Breadcrumbs plugin was written by Anthony Iacono.
 
 ## Copyright
 Copyright &copy; 2018 yours! Ltd
+
+[![forthebadge](http://forthebadge.com/images/badges/certified-steve-bruhle.svg)](http://forthebadge.com)
