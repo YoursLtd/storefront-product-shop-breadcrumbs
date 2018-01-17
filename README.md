@@ -23,7 +23,7 @@ To disable and remove the Storefront Product Shop Breadcrumbs plugin, simply fol
 Please review the [LICENSE](LICENSE) file located in the repo.
 
 ## Changes
-### v1.0 (__1/16/2018__)
+### v1.0 (__1/17/2018__)
 
 
 | Description  | Type | Reference |
