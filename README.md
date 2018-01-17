@@ -1,7 +1,7 @@
 # Storefront Product Shop Breadcrumbs
 [WooCommerce](https://woocommerce.com) plugin that adds a **Shop** link to to the breadcrumbs on product pages for the [Storefront](https://wordpress.org/themes/storefront/) theme.
 ## Why?
-By default, [Storefront](https://wordpress.org/themes/storefront/) does not have a configuration option to add the "Shop" page to breadcrumbs located on product-detail pages.
+By default, [Storefront](https://wordpress.org/themes/storefront/) does not have a configuration option to add the **Shop** page to breadcrumbs located on product-detail pages.
 
 ## Contents
 
