@@ -1,7 +1,9 @@
 <?php
 /*
 Plugin Name: Storefront Product Shop Breadcrumbs
+Plugin URI: https://github.com/YoursLtd/storefront-product-shop-breadcrumbs
 Author: JointByte - Anthony Iacono
+Author URI: http://yoursltd.com
 Version: 1.0
 Text Domain: product-shop-breadcrumbs
 */
