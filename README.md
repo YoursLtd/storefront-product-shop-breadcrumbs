@@ -30,7 +30,7 @@ Please feel free to contribute by submitting pull requests for bug fixes and imp
 | ------------- | ------------- | ------------- |
 | **Initial release**  | **Release**  | [Download v1.0](https://github.com/YoursLtd/storefront-product-shop-breadcrumbs/releases/tag/v1.0) |
 
-## License [![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.svg?v=103)](https://opensource.org/licenses/GPL-2.0/)
+## License [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 Please review the [LICENSE](LICENSE) file located in the repo.
 
 ## Credits
