@@ -19,7 +19,7 @@ The Storefront Product Shop Breadcrumbs plugin contents should be put in the [Wo
 ## Removal
 To disable and remove the Storefront Product Shop Breadcrumbs plugin, simply follow the steps [here](https://codex.wordpress.org/Managing_Plugins#Uninstalling_Plugins), and then delete the `storefront-product-shop-breadcrumbs` directory and all of its contents.
 
-## Contribute [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+## Contribute [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://help.github.com/articles/creating-a-pull-request/)
 Please feel free to contribute by submitting pull requests for bug fixes and improvements. Thanks for your support!
 
 ## Changes
@@ -30,13 +30,13 @@ Please feel free to contribute by submitting pull requests for bug fixes and imp
 | ------------- | ------------- | ------------- |
 | **Initial release**  | **Release**  | [Download v1.0](https://github.com/YoursLtd/storefront-product-shop-breadcrumbs/releases/tag/v1.0) |
 
-## License [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
+## License [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](LICENSE)
 Please review the [LICENSE](LICENSE) file located in the repo.
 
 ## Credits
 The Storefront Product Shop Breadcrumbs plugin was written by Anthony Iacono.
 
-## Support
+## Support [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/wkMbsn7)
 [Join our Discord server](https://discord.gg/wkMbsn7) to access our community-based support. For commercial support and consultation, please visit our website [http://yoursltd.com](http://yoursltd.com). Check out all our other amazing products on [http://www.jointbyte.com/](http://www.jointbyte.com/)
 
 ## Copyright
